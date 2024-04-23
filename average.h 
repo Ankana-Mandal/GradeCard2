@@ -1,0 +1,7 @@
+#ifndef AVERAGE_H
+#define AVERAGE_H
+
+float calculateSemesterAverage(const float* marks, int size);
+
+#endif
+
